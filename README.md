@@ -1,24 +1,49 @@
-# README
+#HELLO-RAILS-BACK-END
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is an API that returns random greetings renders random greetings.
 
-Things you may want to cover:
+## Build With
 
-* Ruby version
+- Ruby
+- Ruby on Rails
+- PostgreSQL
 
-* System dependencies
 
-* Configuration
+## Installation
+```
+  $ git clone git@github.com:SimonGrchevski/hello-rails-back-end.git
 
-* Database creation
+  $ cd hello-rails-back-end
 
-* Database initialization
+  $ bundle
 
-* How to run the test suite
+  $ rails db:create
 
-* Services (job queues, cache servers, search engines, etc.)
+  $ rails db:migrate
 
-* Deployment instructions
+  $ rails db:seed
 
-* ...
+  $ rails s
+  
+```
+
+
+## Author
+
+👤 Simon Grchevski
+
+- GitHub: [Github](https://github.com/SimonGrchevski)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/simon-grchevski-682935209/)
+- Twitter: [Twitter](https://twitter.com/grchevski)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
