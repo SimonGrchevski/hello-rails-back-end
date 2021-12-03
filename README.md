@@ -26,6 +26,8 @@ This project is an API that returns random greetings renders random greetings.
   $ rails s
   
 ```
+# Front-end
+[link](https://github.com/SimonGrchevski/hello-react-front-end/pull/1)
 
 
 ## Author
